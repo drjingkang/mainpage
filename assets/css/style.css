@@ -13,17 +13,23 @@ body {
 .jumbotron {
   height: 60vh;
   background-color: transparent !important; 
-  background-image: url("https://image.freepik.com/free-vector/we-wish-you-happy-new-year-2020-beautiful-card_1035-17422.jpg");
+  background-image: url("../images/mainBackground.jpg");
   background-size: cover;
   background-position: center;
   text-align: center;
   color: seashell;
 }
 
+.jumbotron img {
+  height: 400px;
+  weight: 300px;
+  float: right;
+}
+
 .jumbotron p {
-  font-family: 'Exo 2', sans-serif;
-  font-size: 30px;
-  color: skyblue;
+  font-family: 'Baloo', cursive;
+  font-size: 38px;
+  color: rgb(109, 107, 7);
   text-align: left;
 }
 
