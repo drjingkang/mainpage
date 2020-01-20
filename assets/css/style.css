@@ -38,8 +38,8 @@ body {
   width: 25%;
 }
 
-.project.img{
-  background-size: cover;
+.card-img-top {
+   height: 250px;
 }
 
 .footer {
