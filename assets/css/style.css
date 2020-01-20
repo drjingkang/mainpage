@@ -21,25 +21,25 @@ body {
 }
 
 .jumbotron img {
-  height: 400px;
-  weight: 300px;
+  margin: 20px;
+  height: 300px;
+  width: 300px;
   float: right;
 }
 
 .jumbotron p {
   font-family: 'Baloo', cursive;
-  font-size: 38px;
-  color: rgb(109, 107, 7);
+  font-size: 34px;
+  color: rgb(251, 247, 13);
   text-align: left;
-}
-
-.carousel-picture {
-  width: 100%;
-  height: 100vh;
 }
 
 .card {
   width: 25%;
+}
+
+.project.img{
+  background-size: cover;
 }
 
 .footer {
